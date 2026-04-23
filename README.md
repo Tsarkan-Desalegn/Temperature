@@ -1,4 +1,3 @@
-Since you're bridging the gap between your C++ broker system and the concept of "temperature," here is a **README.md** that treats system activity, risk, and hardware health as a unified thermal model.
 
 ---
 
@@ -76,4 +75,5 @@ As the system moves toward higher "heat," the probability of a `Status::failure`
 * **Software**: Optimize `apply_execution` to reduce the "computational friction" (CPU cycles) per trade.
 
 ---
-*Created for the Broker-System API Reference.*
+
+
