@@ -21,10 +21,10 @@ This module ensures that as trading activity increases, the system remains withi
 
 ---
 
-## 2. API Integration
+## 2. API Integration    
 
 ### `SystemHealth` Monitoring
-To track actual physical temperature, we extend the `common_types.h` logic:
+To track actual physical temperature, we extend the `common_types.h` logic
 
 ```cpp
 struct ThermalState {
