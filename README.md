@@ -68,7 +68,6 @@ The `risk_engine.h` can be conceptualized as a cooling system. If the `gross_exp
 
 As the system moves toward higher "heat," the probability of a `Status::failure` increases. Monitoring these curves allows the Broker System to predict failures before they happen.
 
----
 
 ## 5. Maintenance
 * **Hardware**: Ensure server racks have adequate airflow for high-frequency trading.
