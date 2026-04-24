@@ -60,7 +60,7 @@ The `risk_engine.h` can be conceptualized as a cooling system. If the `gross_exp
 * **Risk**: Approaching `max_order_notional_cents`.
 * **Action**: The Risk Engine increases "cooling" by tightening validation logic.
 
----
+
 
 ## 4. Visualizing System Entropy
 
