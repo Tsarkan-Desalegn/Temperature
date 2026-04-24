@@ -42,7 +42,6 @@ The `risk_engine.h` can be conceptualized as a cooling system. If the `gross_exp
 
 > **System Invariant:** If `ThermalState.cpu_temp_celsius > 85.0`, the `OrderService` must automatically switch to `REJECT_ALL` mode to protect hardware integrity.
 
----
 
 ## 3. Operational States
 
