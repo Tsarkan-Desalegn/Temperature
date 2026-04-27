@@ -73,6 +73,7 @@ As the system moves toward higher "heat," the probability of a `Status::failure`
 * **Software**: Optimize `apply_execution` to reduce the "computational friction" (CPU cycles) per trade.
 
 ---
+here is the end 
 
 
 
