@@ -72,7 +72,7 @@ As the system moves toward higher "heat," the probability of a `Status::failure`
 * **Hardware**: Ensure server racks have adequate airflow for high-frequency trading.
 * **Software**: Optimize `apply_execution` to reduce the "computational friction" (CPU cycles) per trade.
 
----
+
 
 
 
